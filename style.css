@@ -1,0 +1,29 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box-one{
+    background: orange;
+    color: #fff;
+    width: 250px;
+    height: 250px;
+    padding: 10px;
+    border: 10px solid black;
+    margin-bottom: 50px;
+}
+a{
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px;
+    background: blue;
+}
+
+.box-two{
+    background: rgb(156, 109, 21);
+    color: #fff;
+    width: 250px;
+    height: 250px;
+    margin-top: 60px;
+}
